@@ -32,7 +32,7 @@ Console.WriteLine("'''\n");
 
 Console.WriteLine("'''");
 int i = 1234;
-Object o = i;
+object o = i;
 Console.WriteLine(o);
 
 Console.WriteLine("'''\n");
